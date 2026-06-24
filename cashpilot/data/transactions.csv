@@ -1,0 +1,627 @@
+date,type,counterparty,amount,balance_after
+2025-06-01,cafe_sales,Walk-in customers,814.04,1814.04
+2025-06-01,rent,Landlord (Capel St),-3500,-1685.96
+2025-06-01,utilities,Electric Ireland / Gas,-397.0,-2082.96
+2025-06-01,supplier,Green bean importer,-4280.0,-6362.96
+2025-06-02,cafe_sales,Walk-in customers,482.59,-5880.37
+2025-06-02,supplier,Dairy supplier,-614.0,-6494.37
+2025-06-03,cafe_sales,Walk-in customers,601.06,-5893.31
+2025-06-03,insurance,Business insurance,-650,-6543.31
+2025-06-04,cafe_sales,Walk-in customers,613.64,-5929.67
+2025-06-05,cafe_sales,Walk-in customers,422.3,-5507.37
+2025-06-05,loan_repayment,Equipment finance (existing roaster),-2800,-8307.37
+2025-06-06,cafe_sales,Walk-in customers,465.24,-7842.13
+2025-06-06,fees,Card processing fees,-456.0,-8298.13
+2025-06-07,cafe_sales,Walk-in customers,797.38,-7500.75
+2025-06-08,cafe_sales,Walk-in customers,755.53,-6745.22
+2025-06-08,supplier,Packaging Co.,-887.0,-7632.22
+2025-06-09,cafe_sales,Walk-in customers,550.29,-7081.93
+2025-06-09,supplier,Dairy supplier,-630.0,-7711.93
+2025-06-10,cafe_sales,Walk-in customers,494.96,-7216.97
+2025-06-11,cafe_sales,Walk-in customers,609.59,-6607.38
+2025-06-12,cafe_sales,Walk-in customers,602.87,-6004.51
+2025-06-13,cafe_sales,Walk-in customers,555.77,-5448.74
+2025-06-13,fees,Card processing fees,-381.0,-5829.74
+2025-06-14,cafe_sales,Walk-in customers,891.56,-4938.18
+2025-06-15,cafe_sales,Walk-in customers,829.39,-4108.79
+2025-06-15,supplier,Green bean importer,-3559.0,-7667.79
+2025-06-16,cafe_sales,Walk-in customers,494.54,-7173.25
+2025-06-16,supplier,Dairy supplier,-532.0,-7705.25
+2025-06-17,cafe_sales,Walk-in customers,575.8,-7129.45
+2025-06-18,cafe_sales,Walk-in customers,487.95,-6641.5
+2025-06-19,cafe_sales,Walk-in customers,609.53,-6031.97
+2025-06-20,cafe_sales,Walk-in customers,548.1,-5483.87
+2025-06-20,fees,Card processing fees,-398.0,-5881.87
+2025-06-21,cafe_sales,Walk-in customers,767.91,-5113.96
+2025-06-22,cafe_sales,Walk-in customers,721.16,-4392.8
+2025-06-23,cafe_sales,Walk-in customers,632.29,-3760.51
+2025-06-23,supplier,Dairy supplier,-520.0,-4280.51
+2025-06-24,cafe_sales,Walk-in customers,541.18,-3739.33
+2025-06-25,cafe_sales,Walk-in customers,523.06,-3216.27
+2025-06-25,payroll,Staff payroll,-22500,-25716.27
+2025-06-26,cafe_sales,Walk-in customers,528.1,-25188.17
+2025-06-27,cafe_sales,Walk-in customers,586.62,-24601.55
+2025-06-27,fees,Card processing fees,-306.0,-24907.55
+2025-06-28,cafe_sales,Walk-in customers,819.77,-24087.78
+2025-06-29,cafe_sales,Walk-in customers,824.22,-23263.56
+2025-06-29,supplier,Green bean importer,-3741.0,-27004.56
+2025-06-30,cafe_sales,Walk-in customers,579.91,-26424.65
+2025-06-30,supplier,Dairy supplier,-679.0,-27103.65
+2025-07-01,cafe_sales,Walk-in customers,671.99,-26431.66
+2025-07-01,rent,Landlord (Capel St),-3500,-29931.66
+2025-07-01,utilities,Electric Ireland / Gas,-462.0,-30393.66
+2025-07-02,cafe_sales,Walk-in customers,508.53,-29885.13
+2025-07-03,cafe_sales,Walk-in customers,501.74,-29383.39
+2025-07-03,insurance,Business insurance,-650,-30033.39
+2025-07-04,cafe_sales,Walk-in customers,482.39,-29551.0
+2025-07-04,fees,Card processing fees,-413.0,-29964.0
+2025-07-05,cafe_sales,Walk-in customers,817.68,-29146.32
+2025-07-05,loan_repayment,Equipment finance (existing roaster),-2800,-31946.32
+2025-07-06,cafe_sales,Walk-in customers,864.55,-31081.77
+2025-07-07,cafe_sales,Walk-in customers,527.29,-30554.48
+2025-07-07,supplier,Dairy supplier,-594.0,-31148.48
+2025-07-08,cafe_sales,Walk-in customers,480.7,-30667.78
+2025-07-08,invoice_payment,The Daily Grind,2054.38,-28613.4
+2025-07-08,supplier,Packaging Co.,-743.0,-29356.4
+2025-07-09,cafe_sales,Walk-in customers,481.71,-28874.69
+2025-07-10,cafe_sales,Walk-in customers,576.34,-28298.35
+2025-07-11,cafe_sales,Walk-in customers,582.28,-27716.07
+2025-07-11,fees,Card processing fees,-359.0,-28075.07
+2025-07-12,cafe_sales,Walk-in customers,811.03,-27264.04
+2025-07-13,cafe_sales,Walk-in customers,700.59,-26563.45
+2025-07-13,supplier,Green bean importer,-3600.0,-30163.45
+2025-07-14,cafe_sales,Walk-in customers,549.49,-29613.96
+2025-07-14,invoice_payment,Northside Bakery,2355.15,-27258.81
+2025-07-14,supplier,Dairy supplier,-658.0,-27916.81
+2025-07-15,cafe_sales,Walk-in customers,542.09,-27374.72
+2025-07-16,cafe_sales,Walk-in customers,548.63,-26826.09
+2025-07-17,cafe_sales,Walk-in customers,590.5,-26235.59
+2025-07-18,cafe_sales,Walk-in customers,548.94,-25686.65
+2025-07-18,fees,Card processing fees,-329.0,-26015.65
+2025-07-19,cafe_sales,Walk-in customers,823.43,-25192.22
+2025-07-19,vat,Revenue (VAT return),-6900,-32092.22
+2025-07-20,cafe_sales,Walk-in customers,767.57,-31324.65
+2025-07-21,cafe_sales,Walk-in customers,553.15,-30771.5
+2025-07-21,supplier,Dairy supplier,-587.0,-31358.5
+2025-07-22,cafe_sales,Walk-in customers,575.1,-30783.4
+2025-07-22,invoice_payment,Quay Street Bistro,7199.12,-23584.28
+2025-07-23,cafe_sales,Walk-in customers,441.12,-23143.16
+2025-07-24,cafe_sales,Walk-in customers,514.09,-22629.07
+2025-07-25,cafe_sales,Walk-in customers,504.42,-22124.65
+2025-07-25,payroll,Staff payroll,-22500,-44624.65
+2025-07-25,fees,Card processing fees,-456.0,-45080.65
+2025-07-26,cafe_sales,Walk-in customers,703.03,-44377.62
+2025-07-27,cafe_sales,Walk-in customers,736.26,-43641.36
+2025-07-27,invoice_payment,Trinity Catering Co.,3513.09,-40128.27
+2025-07-27,supplier,Green bean importer,-4151.0,-44279.27
+2025-07-28,cafe_sales,Walk-in customers,630.5,-43648.77
+2025-07-28,supplier,Dairy supplier,-602.0,-44250.77
+2025-07-29,cafe_sales,Walk-in customers,479.06,-43771.71
+2025-07-30,cafe_sales,Walk-in customers,596.72,-43174.99
+2025-07-31,cafe_sales,Walk-in customers,426.64,-42748.35
+2025-08-01,cafe_sales,Walk-in customers,529.24,-42219.11
+2025-08-01,rent,Landlord (Capel St),-3500,-45719.11
+2025-08-01,utilities,Electric Ireland / Gas,-477.0,-46196.11
+2025-08-01,fees,Card processing fees,-425.0,-46621.11
+2025-08-02,cafe_sales,Walk-in customers,800.67,-45820.44
+2025-08-03,cafe_sales,Walk-in customers,840.57,-44979.87
+2025-08-03,insurance,Business insurance,-650,-45629.87
+2025-08-04,cafe_sales,Walk-in customers,598.46,-45031.41
+2025-08-04,supplier,Dairy supplier,-565.0,-45596.41
+2025-08-05,cafe_sales,Walk-in customers,603.89,-44992.52
+2025-08-05,loan_repayment,Equipment finance (existing roaster),-2800,-47792.52
+2025-08-06,cafe_sales,Walk-in customers,528.33,-47264.19
+2025-08-06,invoice_payment,The Daily Grind,3500.82,-43763.37
+2025-08-07,cafe_sales,Walk-in customers,520.81,-43242.56
+2025-08-08,cafe_sales,Walk-in customers,608.17,-42634.39
+2025-08-08,fees,Card processing fees,-401.0,-43035.39
+2025-08-08,supplier,Packaging Co.,-918.0,-43953.39
+2025-08-09,cafe_sales,Walk-in customers,767.3,-43186.09
+2025-08-10,cafe_sales,Walk-in customers,665.11,-42520.98
+2025-08-10,invoice_payment,Northside Bakery,7208.19,-35312.79
+2025-08-10,supplier,Green bean importer,-4129.0,-39441.79
+2025-08-11,cafe_sales,Walk-in customers,476.41,-38965.38
+2025-08-11,supplier,Dairy supplier,-600.0,-39565.38
+2025-08-12,cafe_sales,Walk-in customers,490.56,-39074.82
+2025-08-13,cafe_sales,Walk-in customers,584.3,-38490.52
+2025-08-14,cafe_sales,Walk-in customers,560.82,-37929.7
+2025-08-15,cafe_sales,Walk-in customers,597.09,-37332.61
+2025-08-15,fees,Card processing fees,-323.0,-37655.61
+2025-08-16,cafe_sales,Walk-in customers,745.06,-36910.55
+2025-08-16,invoice_payment,Harbour Hotel Group,5092.1,-31818.45
+2025-08-17,cafe_sales,Walk-in customers,800.27,-31018.18
+2025-08-18,cafe_sales,Walk-in customers,592.79,-30425.39
+2025-08-18,supplier,Dairy supplier,-564.0,-30989.39
+2025-08-19,cafe_sales,Walk-in customers,530.93,-30458.46
+2025-08-20,cafe_sales,Walk-in customers,581.62,-29876.84
+2025-08-21,cafe_sales,Walk-in customers,507.6,-29369.24
+2025-08-21,invoice_payment,Quay Street Bistro,5575.23,-23794.01
+2025-08-22,cafe_sales,Walk-in customers,527.38,-23266.63
+2025-08-22,fees,Card processing fees,-451.0,-23717.63
+2025-08-23,cafe_sales,Walk-in customers,749.35,-22968.28
+2025-08-24,cafe_sales,Walk-in customers,672.63,-22295.65
+2025-08-24,invoice_payment,Trinity Catering Co.,6992.73,-15302.92
+2025-08-24,supplier,Green bean importer,-4095.0,-19397.92
+2025-08-25,cafe_sales,Walk-in customers,583.62,-18814.3
+2025-08-25,payroll,Staff payroll,-22500,-41314.3
+2025-08-25,supplier,Dairy supplier,-574.0,-41888.3
+2025-08-26,cafe_sales,Walk-in customers,520.34,-41367.96
+2025-08-27,cafe_sales,Walk-in customers,552.23,-40815.73
+2025-08-28,cafe_sales,Walk-in customers,583.21,-40232.52
+2025-08-29,cafe_sales,Walk-in customers,580.95,-39651.57
+2025-08-29,fees,Card processing fees,-366.0,-40017.57
+2025-08-30,cafe_sales,Walk-in customers,848.03,-39169.54
+2025-08-31,cafe_sales,Walk-in customers,776.05,-38393.49
+2025-09-01,cafe_sales,Walk-in customers,566.96,-37826.53
+2025-09-01,rent,Landlord (Capel St),-3500,-41326.53
+2025-09-01,utilities,Electric Ireland / Gas,-484.0,-41810.53
+2025-09-01,supplier,Dairy supplier,-616.0,-42426.53
+2025-09-02,cafe_sales,Walk-in customers,591.59,-41834.94
+2025-09-03,cafe_sales,Walk-in customers,476.36,-41358.58
+2025-09-03,insurance,Business insurance,-650,-42008.58
+2025-09-04,cafe_sales,Walk-in customers,493.58,-41515.0
+2025-09-05,cafe_sales,Walk-in customers,502.49,-41012.51
+2025-09-05,loan_repayment,Equipment finance (existing roaster),-2800,-43812.51
+2025-09-05,fees,Card processing fees,-411.0,-44223.51
+2025-09-06,cafe_sales,Walk-in customers,748.9,-43474.61
+2025-09-06,invoice_payment,The Daily Grind,6753.82,-36720.79
+2025-09-07,cafe_sales,Walk-in customers,891.51,-35829.28
+2025-09-07,supplier,Green bean importer,-3783.0,-39612.28
+2025-09-08,cafe_sales,Walk-in customers,532.4,-39079.88
+2025-09-08,supplier,Dairy supplier,-636.0,-39715.88
+2025-09-08,supplier,Packaging Co.,-810.0,-40525.88
+2025-09-09,cafe_sales,Walk-in customers,570.19,-39955.69
+2025-09-10,cafe_sales,Walk-in customers,690.42,-39265.27
+2025-09-10,invoice_payment,Northside Bakery,2021.8,-37243.47
+2025-09-11,cafe_sales,Walk-in customers,571.76,-36671.71
+2025-09-12,cafe_sales,Walk-in customers,650.16,-36021.55
+2025-09-12,fees,Card processing fees,-450.0,-36471.55
+2025-09-13,cafe_sales,Walk-in customers,755.39,-35716.16
+2025-09-14,cafe_sales,Walk-in customers,829.73,-34886.43
+2025-09-15,cafe_sales,Walk-in customers,529.21,-34357.22
+2025-09-15,supplier,Dairy supplier,-548.0,-34905.22
+2025-09-16,cafe_sales,Walk-in customers,573.0,-34332.22
+2025-09-17,cafe_sales,Walk-in customers,657.53,-33674.69
+2025-09-18,cafe_sales,Walk-in customers,473.49,-33201.2
+2025-09-19,cafe_sales,Walk-in customers,628.44,-32572.76
+2025-09-19,invoice_payment,Quay Street Bistro,4249.13,-28323.63
+2025-09-19,fees,Card processing fees,-323.0,-28646.63
+2025-09-20,cafe_sales,Walk-in customers,874.97,-27771.66
+2025-09-21,cafe_sales,Walk-in customers,790.05,-26981.61
+2025-09-21,supplier,Green bean importer,-4007.0,-30988.61
+2025-09-22,cafe_sales,Walk-in customers,493.65,-30494.96
+2025-09-22,invoice_payment,Harbour Hotel Group,1934.28,-28560.68
+2025-09-22,supplier,Dairy supplier,-611.0,-29171.68
+2025-09-23,cafe_sales,Walk-in customers,602.47,-28569.21
+2025-09-24,cafe_sales,Walk-in customers,559.35,-28009.86
+2025-09-25,cafe_sales,Walk-in customers,613.98,-27395.88
+2025-09-25,payroll,Staff payroll,-22500,-49895.88
+2025-09-26,cafe_sales,Walk-in customers,598.87,-49297.01
+2025-09-26,invoice_payment,Trinity Catering Co.,1455.36,-47841.65
+2025-09-26,fees,Card processing fees,-410.0,-48251.65
+2025-09-27,cafe_sales,Walk-in customers,1014.22,-47237.43
+2025-09-28,cafe_sales,Walk-in customers,826.27,-46411.16
+2025-09-29,cafe_sales,Walk-in customers,523.94,-45887.22
+2025-09-29,supplier,Dairy supplier,-592.0,-46479.22
+2025-09-30,cafe_sales,Walk-in customers,610.15,-45869.07
+2025-10-01,cafe_sales,Walk-in customers,677.42,-45191.65
+2025-10-01,rent,Landlord (Capel St),-3500,-48691.65
+2025-10-01,utilities,Electric Ireland / Gas,-544.0,-49235.65
+2025-10-02,cafe_sales,Walk-in customers,767.65,-48468.0
+2025-10-03,cafe_sales,Walk-in customers,726.14,-47741.86
+2025-10-03,insurance,Business insurance,-650,-48391.86
+2025-10-03,fees,Card processing fees,-375.0,-48766.86
+2025-10-04,cafe_sales,Walk-in customers,980.26,-47786.6
+2025-10-05,cafe_sales,Walk-in customers,1105.06,-46681.54
+2025-10-05,loan_repayment,Equipment finance (existing roaster),-2800,-49481.54
+2025-10-05,supplier,Green bean importer,-3642.0,-53123.54
+2025-10-06,cafe_sales,Walk-in customers,565.85,-52557.69
+2025-10-06,supplier,Dairy supplier,-541.0,-53098.69
+2025-10-07,cafe_sales,Walk-in customers,609.33,-52489.36
+2025-10-08,cafe_sales,Walk-in customers,586.62,-51902.74
+2025-10-08,invoice_payment,The Daily Grind,4440.84,-47461.9
+2025-10-08,supplier,Packaging Co.,-943.0,-48404.9
+2025-10-09,cafe_sales,Walk-in customers,629.13,-47775.77
+2025-10-10,cafe_sales,Walk-in customers,550.97,-47224.8
+2025-10-10,fees,Card processing fees,-321.0,-47545.8
+2025-10-11,cafe_sales,Walk-in customers,1011.65,-46534.15
+2025-10-12,cafe_sales,Walk-in customers,914.93,-45619.22
+2025-10-13,cafe_sales,Walk-in customers,543.51,-45075.71
+2025-10-13,invoice_payment,Northside Bakery,6959.45,-38116.26
+2025-10-13,supplier,Dairy supplier,-690.0,-38806.26
+2025-10-14,cafe_sales,Walk-in customers,579.57,-38226.69
+2025-10-15,cafe_sales,Walk-in customers,684.83,-37541.86
+2025-10-15,invoice_payment,Harbour Hotel Group,4664.35,-32877.51
+2025-10-16,cafe_sales,Walk-in customers,726.38,-32151.13
+2025-10-17,cafe_sales,Walk-in customers,818.14,-31332.99
+2025-10-17,fees,Card processing fees,-344.0,-31676.99
+2025-10-18,cafe_sales,Walk-in customers,1268.68,-30408.31
+2025-10-19,cafe_sales,Walk-in customers,986.75,-29421.56
+2025-10-19,supplier,Green bean importer,-3602.0,-33023.56
+2025-10-19,vat,Revenue (VAT return),-7100,-40123.56
+2025-10-20,cafe_sales,Walk-in customers,581.63,-39541.93
+2025-10-20,supplier,Dairy supplier,-574.0,-40115.93
+2025-10-21,cafe_sales,Walk-in customers,491.14,-39624.79
+2025-10-22,cafe_sales,Walk-in customers,681.2,-38943.59
+2025-10-22,invoice_payment,Quay Street Bistro,3362.08,-35581.51
+2025-10-23,cafe_sales,Walk-in customers,595.62,-34985.89
+2025-10-24,cafe_sales,Walk-in customers,627.1,-34358.79
+2025-10-24,invoice_payment,Trinity Catering Co.,4469.8,-29888.99
+2025-10-24,fees,Card processing fees,-398.0,-30286.99
+2025-10-25,cafe_sales,Walk-in customers,870.96,-29416.03
+2025-10-25,payroll,Staff payroll,-22500,-51916.03
+2025-10-26,cafe_sales,Walk-in customers,924.12,-50991.91
+2025-10-27,cafe_sales,Walk-in customers,744.43,-50247.48
+2025-10-27,supplier,Dairy supplier,-597.0,-50844.48
+2025-10-28,cafe_sales,Walk-in customers,672.44,-50172.04
+2025-10-29,cafe_sales,Walk-in customers,647.44,-49524.6
+2025-10-30,cafe_sales,Walk-in customers,577.98,-48946.62
+2025-10-31,cafe_sales,Walk-in customers,527.37,-48419.25
+2025-10-31,fees,Card processing fees,-425.0,-48844.25
+2025-11-01,cafe_sales,Walk-in customers,969.23,-47875.02
+2025-11-01,rent,Landlord (Capel St),-3500,-51375.02
+2025-11-01,utilities,Electric Ireland / Gas,-489.0,-51864.02
+2025-11-02,cafe_sales,Walk-in customers,1022.66,-50841.36
+2025-11-02,supplier,Green bean importer,-3940.0,-54781.36
+2025-11-03,cafe_sales,Walk-in customers,876.02,-53905.34
+2025-11-03,insurance,Business insurance,-650,-54555.34
+2025-11-03,supplier,Dairy supplier,-634.0,-55189.34
+2025-11-04,cafe_sales,Walk-in customers,734.0,-54455.34
+2025-11-05,cafe_sales,Walk-in customers,807.93,-53647.41
+2025-11-05,loan_repayment,Equipment finance (existing roaster),-2800,-56447.41
+2025-11-06,cafe_sales,Walk-in customers,679.4,-55768.01
+2025-11-07,cafe_sales,Walk-in customers,619.94,-55148.07
+2025-11-07,fees,Card processing fees,-455.0,-55603.07
+2025-11-08,cafe_sales,Walk-in customers,910.09,-54692.98
+2025-11-08,invoice_payment,The Daily Grind,5366.0,-49326.98
+2025-11-08,supplier,Packaging Co.,-802.0,-50128.98
+2025-11-09,cafe_sales,Walk-in customers,939.72,-49189.26
+2025-11-10,cafe_sales,Walk-in customers,907.29,-48281.97
+2025-11-10,supplier,Dairy supplier,-547.0,-48828.97
+2025-11-11,cafe_sales,Walk-in customers,651.47,-48177.5
+2025-11-12,cafe_sales,Walk-in customers,795.42,-47382.08
+2025-11-13,cafe_sales,Walk-in customers,644.39,-46737.69
+2025-11-14,cafe_sales,Walk-in customers,803.49,-45934.2
+2025-11-14,invoice_payment,Northside Bakery,7036.0,-38898.2
+2025-11-14,fees,Card processing fees,-365.0,-39263.2
+2025-11-15,cafe_sales,Walk-in customers,1076.85,-38186.35
+2025-11-16,cafe_sales,Walk-in customers,1009.95,-37176.4
+2025-11-16,invoice_payment,Quay Street Bistro,5586.0,-31590.4
+2025-11-16,supplier,Green bean importer,-4424.0,-36014.4
+2025-11-17,cafe_sales,Walk-in customers,719.16,-35295.24
+2025-11-17,supplier,Dairy supplier,-559.0,-35854.24
+2025-11-18,cafe_sales,Walk-in customers,665.91,-35188.33
+2025-11-18,invoice_payment,Harbour Hotel Group,4359.38,-30828.95
+2025-11-19,cafe_sales,Walk-in customers,761.39,-30067.56
+2025-11-20,cafe_sales,Walk-in customers,683.24,-29384.32
+2025-11-21,cafe_sales,Walk-in customers,616.41,-28767.91
+2025-11-21,fees,Card processing fees,-451.0,-29218.91
+2025-11-22,cafe_sales,Walk-in customers,871.45,-28347.46
+2025-11-23,cafe_sales,Walk-in customers,1050.62,-27296.84
+2025-11-24,cafe_sales,Walk-in customers,859.65,-26437.19
+2025-11-24,supplier,Dairy supplier,-625.0,-27062.19
+2025-11-25,cafe_sales,Walk-in customers,736.58,-26325.61
+2025-11-25,payroll,Staff payroll,-22500,-48825.61
+2025-11-26,cafe_sales,Walk-in customers,712.41,-48113.2
+2025-11-27,cafe_sales,Walk-in customers,747.49,-47365.71
+2025-11-27,invoice_payment,Trinity Catering Co.,4431.0,-42934.71
+2025-11-28,cafe_sales,Walk-in customers,835.96,-42098.75
+2025-11-28,fees,Card processing fees,-396.0,-42494.75
+2025-11-29,cafe_sales,Walk-in customers,1056.4,-41438.35
+2025-11-30,cafe_sales,Walk-in customers,978.54,-40459.81
+2025-11-30,supplier,Green bean importer,-3848.0,-44307.81
+2025-12-01,cafe_sales,Walk-in customers,870.63,-43437.18
+2025-12-01,rent,Landlord (Capel St),-3500,-46937.18
+2025-12-01,utilities,Electric Ireland / Gas,-545.0,-47482.18
+2025-12-01,supplier,Dairy supplier,-526.0,-48008.18
+2025-12-02,cafe_sales,Walk-in customers,808.14,-47200.04
+2025-12-03,cafe_sales,Walk-in customers,910.25,-46289.79
+2025-12-03,insurance,Business insurance,-650,-46939.79
+2025-12-04,cafe_sales,Walk-in customers,785.5,-46154.29
+2025-12-05,cafe_sales,Walk-in customers,655.66,-45498.63
+2025-12-05,loan_repayment,Equipment finance (existing roaster),-2800,-48298.63
+2025-12-05,fees,Card processing fees,-347.0,-48645.63
+2025-12-06,cafe_sales,Walk-in customers,914.95,-47730.68
+2025-12-07,cafe_sales,Walk-in customers,1311.54,-46419.14
+2025-12-08,cafe_sales,Walk-in customers,927.58,-45491.56
+2025-12-08,invoice_payment,The Daily Grind,3973.76,-41517.8
+2025-12-08,supplier,Dairy supplier,-595.0,-42112.8
+2025-12-08,supplier,Packaging Co.,-819.0,-42931.8
+2025-12-09,cafe_sales,Walk-in customers,752.04,-42179.76
+2025-12-10,cafe_sales,Walk-in customers,733.26,-41446.5
+2025-12-11,cafe_sales,Walk-in customers,903.39,-40543.11
+2025-12-11,invoice_payment,Northside Bakery,8514.72,-32028.39
+2025-12-12,cafe_sales,Walk-in customers,666.49,-31361.9
+2025-12-12,fees,Card processing fees,-375.0,-31736.9
+2025-12-13,cafe_sales,Walk-in customers,977.14,-30759.76
+2025-12-14,cafe_sales,Walk-in customers,1179.18,-29580.58
+2025-12-14,supplier,Green bean importer,-3662.0,-33242.58
+2025-12-15,cafe_sales,Walk-in customers,732.2,-32510.38
+2025-12-15,supplier,Dairy supplier,-560.0,-33070.38
+2025-12-16,cafe_sales,Walk-in customers,768.13,-32302.25
+2025-12-17,cafe_sales,Walk-in customers,753.52,-31548.73
+2025-12-18,cafe_sales,Walk-in customers,799.73,-30749.0
+2025-12-19,cafe_sales,Walk-in customers,898.41,-29850.59
+2025-12-19,fees,Card processing fees,-315.0,-30165.59
+2025-12-20,cafe_sales,Walk-in customers,1106.57,-29059.02
+2025-12-20,invoice_payment,Quay Street Bistro,2516.31,-26542.71
+2025-12-21,cafe_sales,Walk-in customers,1179.26,-25363.45
+2025-12-21,invoice_payment,Harbour Hotel Group,1831.0,-23532.45
+2025-12-22,cafe_sales,Walk-in customers,579.51,-22952.94
+2025-12-22,supplier,Dairy supplier,-623.0,-23575.94
+2025-12-23,cafe_sales,Walk-in customers,764.11,-22811.83
+2025-12-23,invoice_payment,Trinity Catering Co.,9847.33,-12964.5
+2025-12-24,cafe_sales,Walk-in customers,690.83,-12273.67
+2025-12-25,cafe_sales,Walk-in customers,656.19,-11617.48
+2025-12-25,payroll,Staff payroll,-22500,-34117.48
+2025-12-26,cafe_sales,Walk-in customers,687.61,-33429.87
+2025-12-26,fees,Card processing fees,-356.0,-33785.87
+2025-12-27,cafe_sales,Walk-in customers,1050.78,-32735.09
+2025-12-28,cafe_sales,Walk-in customers,1214.99,-31520.1
+2025-12-28,supplier,Green bean importer,-4122.0,-35642.1
+2025-12-29,cafe_sales,Walk-in customers,646.26,-34995.84
+2025-12-29,supplier,Dairy supplier,-626.0,-35621.84
+2025-12-30,cafe_sales,Walk-in customers,771.42,-34850.42
+2025-12-31,cafe_sales,Walk-in customers,723.94,-34126.48
+2026-01-01,cafe_sales,Walk-in customers,754.52,-33371.96
+2026-01-01,rent,Landlord (Capel St),-3500,-36871.96
+2026-01-01,utilities,Electric Ireland / Gas,-506.0,-37377.96
+2026-01-02,cafe_sales,Walk-in customers,879.91,-36498.05
+2026-01-02,fees,Card processing fees,-387.0,-36885.05
+2026-01-03,cafe_sales,Walk-in customers,1190.83,-35694.22
+2026-01-03,invoice_payment,The Daily Grind,7189.9,-28504.32
+2026-01-03,insurance,Business insurance,-650,-29154.32
+2026-01-04,cafe_sales,Walk-in customers,1298.12,-27856.2
+2026-01-05,cafe_sales,Walk-in customers,770.84,-27085.36
+2026-01-05,loan_repayment,Equipment finance (existing roaster),-2800,-29885.36
+2026-01-05,supplier,Dairy supplier,-636.0,-30521.36
+2026-01-06,cafe_sales,Walk-in customers,719.81,-29801.55
+2026-01-07,cafe_sales,Walk-in customers,764.3,-29037.25
+2026-01-08,cafe_sales,Walk-in customers,808.25,-28229.0
+2026-01-08,supplier,Packaging Co.,-846.0,-29075.0
+2026-01-09,cafe_sales,Walk-in customers,802.04,-28272.96
+2026-01-09,fees,Card processing fees,-404.0,-28676.96
+2026-01-10,cafe_sales,Walk-in customers,973.04,-27703.92
+2026-01-11,cafe_sales,Walk-in customers,1130.75,-26573.17
+2026-01-11,supplier,Green bean importer,-4178.0,-30751.17
+2026-01-12,cafe_sales,Walk-in customers,806.91,-29944.26
+2026-01-12,supplier,Dairy supplier,-576.0,-30520.26
+2026-01-13,cafe_sales,Walk-in customers,1022.67,-29497.59
+2026-01-14,cafe_sales,Walk-in customers,962.29,-28535.3
+2026-01-15,cafe_sales,Walk-in customers,704.98,-27830.32
+2026-01-15,invoice_payment,Northside Bakery,7691.82,-20138.5
+2026-01-16,cafe_sales,Walk-in customers,758.31,-19380.19
+2026-01-16,invoice_payment,Quay Street Bistro,9287.24,-10092.95
+2026-01-16,fees,Card processing fees,-339.0,-10431.95
+2026-01-17,cafe_sales,Walk-in customers,922.16,-9509.79
+2026-01-18,cafe_sales,Walk-in customers,1039.31,-8470.48
+2026-01-19,cafe_sales,Walk-in customers,815.15,-7655.33
+2026-01-19,supplier,Dairy supplier,-661.0,-8316.33
+2026-01-19,vat,Revenue (VAT return),-8200,-16516.33
+2026-01-20,cafe_sales,Walk-in customers,899.05,-15617.28
+2026-01-21,cafe_sales,Walk-in customers,716.69,-14900.59
+2026-01-21,invoice_payment,Harbour Hotel Group,7108.74,-7791.85
+2026-01-22,cafe_sales,Walk-in customers,723.75,-7068.1
+2026-01-23,cafe_sales,Walk-in customers,583.02,-6485.08
+2026-01-23,invoice_payment,Trinity Catering Co.,3894.24,-2590.84
+2026-01-23,fees,Card processing fees,-354.0,-2944.84
+2026-01-24,cafe_sales,Walk-in customers,1096.77,-1848.07
+2026-01-25,cafe_sales,Walk-in customers,975.99,-872.08
+2026-01-25,payroll,Staff payroll,-22500,-23372.08
+2026-01-25,supplier,Green bean importer,-4104.0,-27476.08
+2026-01-26,cafe_sales,Walk-in customers,735.5,-26740.58
+2026-01-26,supplier,Dairy supplier,-555.0,-27295.58
+2026-01-27,cafe_sales,Walk-in customers,702.76,-26592.82
+2026-01-28,cafe_sales,Walk-in customers,776.52,-25816.3
+2026-01-29,cafe_sales,Walk-in customers,619.74,-25196.56
+2026-01-30,cafe_sales,Walk-in customers,647.13,-24549.43
+2026-01-30,fees,Card processing fees,-369.0,-24918.43
+2026-01-31,cafe_sales,Walk-in customers,1404.41,-23514.02
+2026-02-01,cafe_sales,Walk-in customers,925.56,-22588.46
+2026-02-01,rent,Landlord (Capel St),-3500,-26088.46
+2026-02-01,utilities,Electric Ireland / Gas,-475.0,-26563.46
+2026-02-02,cafe_sales,Walk-in customers,667.44,-25896.02
+2026-02-02,supplier,Dairy supplier,-632.0,-26528.02
+2026-02-03,cafe_sales,Walk-in customers,938.02,-25590.0
+2026-02-03,insurance,Business insurance,-650,-26240.0
+2026-02-04,cafe_sales,Walk-in customers,1036.54,-25203.46
+2026-02-05,cafe_sales,Walk-in customers,660.54,-24542.92
+2026-02-05,loan_repayment,Equipment finance (existing roaster),-2800,-27342.92
+2026-02-06,cafe_sales,Walk-in customers,734.64,-26608.28
+2026-02-06,fees,Card processing fees,-384.0,-26992.28
+2026-02-07,cafe_sales,Walk-in customers,1139.54,-25852.74
+2026-02-07,invoice_payment,The Daily Grind,8716.75,-17135.99
+2026-02-08,cafe_sales,Walk-in customers,1321.75,-15814.24
+2026-02-08,supplier,Green bean importer,-3896.0,-19710.24
+2026-02-08,supplier,Packaging Co.,-940.0,-20650.24
+2026-02-09,cafe_sales,Walk-in customers,677.58,-19972.66
+2026-02-09,supplier,Dairy supplier,-612.0,-20584.66
+2026-02-10,cafe_sales,Walk-in customers,745.98,-19838.68
+2026-02-10,invoice_payment,Northside Bakery,3553.34,-16285.34
+2026-02-11,cafe_sales,Walk-in customers,840.29,-15445.05
+2026-02-12,cafe_sales,Walk-in customers,808.7,-14636.35
+2026-02-13,cafe_sales,Walk-in customers,733.91,-13902.44
+2026-02-13,fees,Card processing fees,-429.0,-14331.44
+2026-02-14,cafe_sales,Walk-in customers,1077.09,-13254.35
+2026-02-15,cafe_sales,Walk-in customers,914.06,-12340.29
+2026-02-16,cafe_sales,Walk-in customers,746.63,-11593.66
+2026-02-16,supplier,Dairy supplier,-652.0,-12245.66
+2026-02-17,cafe_sales,Walk-in customers,744.03,-11501.63
+2026-02-17,invoice_payment,Quay Street Bistro,9911.51,-1590.12
+2026-02-18,cafe_sales,Walk-in customers,790.01,-800.11
+2026-02-19,cafe_sales,Walk-in customers,717.38,-82.73
+2026-02-20,cafe_sales,Walk-in customers,812.09,729.36
+2026-02-20,fees,Card processing fees,-389.0,340.36
+2026-02-21,cafe_sales,Walk-in customers,1227.7,1568.06
+2026-02-22,cafe_sales,Walk-in customers,1115.09,2683.15
+2026-02-22,invoice_payment,Harbour Hotel Group,5705.11,8388.26
+2026-02-22,supplier,Green bean importer,-4475.0,3913.26
+2026-02-23,cafe_sales,Walk-in customers,801.04,4714.3
+2026-02-23,supplier,Dairy supplier,-543.0,4171.3
+2026-02-24,cafe_sales,Walk-in customers,773.5,4944.8
+2026-02-25,cafe_sales,Walk-in customers,768.61,5713.41
+2026-02-25,payroll,Staff payroll,-22500,-16786.59
+2026-02-26,cafe_sales,Walk-in customers,702.05,-16084.54
+2026-02-27,cafe_sales,Walk-in customers,797.79,-15286.75
+2026-02-27,invoice_payment,Trinity Catering Co.,7642.18,-7644.57
+2026-02-27,fees,Card processing fees,-447.0,-8091.57
+2026-02-28,cafe_sales,Walk-in customers,1081.89,-7009.68
+2026-03-01,cafe_sales,Walk-in customers,1287.84,-5721.84
+2026-03-01,rent,Landlord (Capel St),-3500,-9221.84
+2026-03-01,utilities,Electric Ireland / Gas,-533.0,-9754.84
+2026-03-02,cafe_sales,Walk-in customers,859.15,-8895.69
+2026-03-02,supplier,Dairy supplier,-610.0,-9505.69
+2026-03-03,cafe_sales,Walk-in customers,756.16,-8749.53
+2026-03-03,insurance,Business insurance,-650,-9399.53
+2026-03-04,cafe_sales,Walk-in customers,656.52,-8743.01
+2026-03-05,cafe_sales,Walk-in customers,626.23,-8116.78
+2026-03-05,loan_repayment,Equipment finance (existing roaster),-2800,-10916.78
+2026-03-06,cafe_sales,Walk-in customers,826.0,-10090.78
+2026-03-06,invoice_payment,The Daily Grind,3111.66,-6979.12
+2026-03-06,fees,Card processing fees,-417.0,-7396.12
+2026-03-07,cafe_sales,Walk-in customers,1061.75,-6334.37
+2026-03-08,cafe_sales,Walk-in customers,1088.61,-5245.76
+2026-03-08,supplier,Green bean importer,-4072.0,-9317.76
+2026-03-08,supplier,Packaging Co.,-767.0,-10084.76
+2026-03-09,cafe_sales,Walk-in customers,571.4,-9513.36
+2026-03-09,supplier,Dairy supplier,-663.0,-10176.36
+2026-03-10,cafe_sales,Walk-in customers,803.13,-9373.23
+2026-03-11,cafe_sales,Walk-in customers,762.11,-8611.12
+2026-03-12,cafe_sales,Walk-in customers,626.4,-7984.72
+2026-03-13,cafe_sales,Walk-in customers,681.81,-7302.91
+2026-03-13,fees,Card processing fees,-339.0,-7641.91
+2026-03-14,cafe_sales,Walk-in customers,1061.87,-6580.04
+2026-03-15,cafe_sales,Walk-in customers,1035.78,-5544.26
+2026-03-16,cafe_sales,Walk-in customers,697.36,-4846.9
+2026-03-16,invoice_payment,Northside Bakery,8907.6,4060.7
+2026-03-16,supplier,Dairy supplier,-576.0,3484.7
+2026-03-17,cafe_sales,Walk-in customers,713.73,4198.43
+2026-03-17,invoice_payment,Harbour Hotel Group,2107.49,6305.92
+2026-03-18,cafe_sales,Walk-in customers,700.85,7006.77
+2026-03-19,cafe_sales,Walk-in customers,735.93,7742.7
+2026-03-20,cafe_sales,Walk-in customers,850.31,8593.01
+2026-03-20,fees,Card processing fees,-383.0,8210.01
+2026-03-21,cafe_sales,Walk-in customers,712.28,8922.29
+2026-03-22,cafe_sales,Walk-in customers,1000.05,9922.34
+2026-03-22,supplier,Green bean importer,-4421.0,5501.34
+2026-03-23,cafe_sales,Walk-in customers,738.01,6239.35
+2026-03-23,invoice_payment,Quay Street Bistro,10306.22,16545.57
+2026-03-23,supplier,Dairy supplier,-589.0,15956.57
+2026-03-24,cafe_sales,Walk-in customers,748.37,16704.94
+2026-03-25,cafe_sales,Walk-in customers,690.45,17395.39
+2026-03-25,payroll,Staff payroll,-22500,-5104.61
+2026-03-26,cafe_sales,Walk-in customers,570.35,-4534.26
+2026-03-26,invoice_payment,Trinity Catering Co.,10158.32,5624.06
+2026-03-27,cafe_sales,Walk-in customers,751.15,6375.21
+2026-03-27,fees,Card processing fees,-379.0,5996.21
+2026-03-28,cafe_sales,Walk-in customers,1242.66,7238.87
+2026-03-29,cafe_sales,Walk-in customers,839.84,8078.71
+2026-03-30,cafe_sales,Walk-in customers,797.61,8876.32
+2026-03-30,supplier,Dairy supplier,-527.0,8349.32
+2026-03-31,cafe_sales,Walk-in customers,694.21,9043.53
+2026-04-01,cafe_sales,Walk-in customers,655.14,9698.67
+2026-04-01,rent,Landlord (Capel St),-3500,6198.67
+2026-04-01,utilities,Electric Ireland / Gas,-400.0,5798.67
+2026-04-02,cafe_sales,Walk-in customers,576.61,6375.28
+2026-04-03,cafe_sales,Walk-in customers,633.51,7008.79
+2026-04-03,insurance,Business insurance,-650,6358.79
+2026-04-03,fees,Card processing fees,-308.0,6050.79
+2026-04-04,cafe_sales,Walk-in customers,1086.65,7137.44
+2026-04-05,cafe_sales,Walk-in customers,1005.72,8143.16
+2026-04-05,loan_repayment,Equipment finance (existing roaster),-2800,5343.16
+2026-04-05,supplier,Green bean importer,-3579.0,1764.16
+2026-04-06,cafe_sales,Walk-in customers,797.2,2561.36
+2026-04-06,supplier,Dairy supplier,-676.0,1885.36
+2026-04-07,cafe_sales,Walk-in customers,753.25,2638.61
+2026-04-07,invoice_payment,The Daily Grind,2112.26,4750.87
+2026-04-08,cafe_sales,Walk-in customers,694.78,5445.65
+2026-04-08,supplier,Packaging Co.,-910.0,4535.65
+2026-04-09,cafe_sales,Walk-in customers,798.12,5333.77
+2026-04-10,cafe_sales,Walk-in customers,694.77,6028.54
+2026-04-10,fees,Card processing fees,-431.0,5597.54
+2026-04-11,cafe_sales,Walk-in customers,1033.4,6630.94
+2026-04-12,cafe_sales,Walk-in customers,906.55,7537.49
+2026-04-13,cafe_sales,Walk-in customers,665.27,8202.76
+2026-04-13,supplier,Dairy supplier,-530.0,7672.76
+2026-04-14,cafe_sales,Walk-in customers,604.76,8277.52
+2026-04-15,cafe_sales,Walk-in customers,738.38,9015.9
+2026-04-15,invoice_payment,Northside Bakery,8220.16,17236.06
+2026-04-16,cafe_sales,Walk-in customers,566.68,17802.74
+2026-04-16,invoice_payment,Quay Street Bistro,9261.51,27064.25
+2026-04-17,cafe_sales,Walk-in customers,721.96,27786.21
+2026-04-17,fees,Card processing fees,-312.0,27474.21
+2026-04-18,cafe_sales,Walk-in customers,918.49,28392.7
+2026-04-19,cafe_sales,Walk-in customers,1072.12,29464.82
+2026-04-19,invoice_payment,Harbour Hotel Group,4259.9,33724.72
+2026-04-19,supplier,Green bean importer,-3808.0,29916.72
+2026-04-19,vat,Revenue (VAT return),-6400,23516.72
+2026-04-20,cafe_sales,Walk-in customers,719.47,24236.19
+2026-04-20,supplier,Dairy supplier,-621.0,23615.19
+2026-04-21,cafe_sales,Walk-in customers,804.2,24419.39
+2026-04-22,cafe_sales,Walk-in customers,717.88,25137.27
+2026-04-23,cafe_sales,Walk-in customers,535.49,25672.76
+2026-04-24,cafe_sales,Walk-in customers,654.7,26327.46
+2026-04-24,fees,Card processing fees,-353.0,25974.46
+2026-04-25,cafe_sales,Walk-in customers,807.8,26782.26
+2026-04-25,payroll,Staff payroll,-22500,4282.26
+2026-04-26,cafe_sales,Walk-in customers,881.54,5163.8
+2026-04-27,cafe_sales,Walk-in customers,779.69,5943.49
+2026-04-27,invoice_payment,Trinity Catering Co.,7982.55,13926.04
+2026-04-27,supplier,Dairy supplier,-607.0,13319.04
+2026-04-28,cafe_sales,Walk-in customers,710.49,14029.53
+2026-04-29,cafe_sales,Walk-in customers,604.64,14634.17
+2026-04-30,cafe_sales,Walk-in customers,579.71,15213.88
+2026-05-01,cafe_sales,Walk-in customers,599.65,15813.53
+2026-05-01,rent,Landlord (Capel St),-3500,12313.53
+2026-05-01,utilities,Electric Ireland / Gas,-411.0,11902.53
+2026-05-01,fees,Card processing fees,-416.0,11486.53
+2026-05-02,cafe_sales,Walk-in customers,726.51,12213.04
+2026-05-03,cafe_sales,Walk-in customers,782.19,12995.23
+2026-05-03,insurance,Business insurance,-650,12345.23
+2026-05-03,supplier,Green bean importer,-3845.0,8500.23
+2026-05-04,cafe_sales,Walk-in customers,619.66,9119.89
+2026-05-04,invoice_payment,The Daily Grind,4849.0,13968.89
+2026-05-04,supplier,Dairy supplier,-531.0,13437.89
+2026-05-05,cafe_sales,Walk-in customers,680.11,14118.0
+2026-05-05,loan_repayment,Equipment finance (existing roaster),-2800,11318.0
+2026-05-06,cafe_sales,Walk-in customers,640.93,11958.93
+2026-05-07,cafe_sales,Walk-in customers,433.07,12392.0
+2026-05-08,cafe_sales,Walk-in customers,619.12,13011.12
+2026-05-08,fees,Card processing fees,-418.0,12593.12
+2026-05-08,supplier,Packaging Co.,-925.0,11668.12
+2026-05-09,cafe_sales,Walk-in customers,858.05,12526.17
+2026-05-10,cafe_sales,Walk-in customers,892.95,13419.12
+2026-05-11,cafe_sales,Walk-in customers,713.14,14132.26
+2026-05-11,supplier,Dairy supplier,-522.0,13610.26
+2026-05-12,cafe_sales,Walk-in customers,449.42,14059.68
+2026-05-12,invoice_payment,Northside Bakery,4921.0,18980.68
+2026-05-13,cafe_sales,Walk-in customers,554.93,19535.61
+2026-05-14,cafe_sales,Walk-in customers,639.65,20175.26
+2026-05-15,cafe_sales,Walk-in customers,483.94,20659.2
+2026-05-15,fees,Card processing fees,-369.0,20290.2
+2026-05-16,cafe_sales,Walk-in customers,1001.37,21291.57
+2026-05-17,cafe_sales,Walk-in customers,888.3,22179.87
+2026-05-17,invoice_payment,Quay Street Bistro,2352.0,24531.87
+2026-05-17,supplier,Green bean importer,-4409.0,20122.87
+2026-05-18,cafe_sales,Walk-in customers,657.98,20780.85
+2026-05-18,supplier,Dairy supplier,-647.0,20133.85
+2026-05-19,cafe_sales,Walk-in customers,556.38,20690.23
+2026-05-20,cafe_sales,Walk-in customers,655.63,21345.86
+2026-05-21,cafe_sales,Walk-in customers,673.88,22019.74
+2026-05-22,cafe_sales,Walk-in customers,613.99,22633.73
+2026-05-22,fees,Card processing fees,-437.0,22196.73
+2026-05-23,cafe_sales,Walk-in customers,874.63,23071.36
+2026-05-23,invoice_payment,Harbour Hotel Group,7374.82,30446.18
+2026-05-24,cafe_sales,Walk-in customers,878.3,31324.48
+2026-05-25,cafe_sales,Walk-in customers,535.42,31859.9
+2026-05-25,payroll,Staff payroll,-22500,9359.9
+2026-05-25,supplier,Dairy supplier,-594.0,8765.9
+2026-05-26,cafe_sales,Walk-in customers,586.73,9352.63
+2026-05-26,invoice_payment,Trinity Catering Co.,6730.0,16082.63
+2026-05-27,cafe_sales,Walk-in customers,586.37,16669.0
+2026-05-28,cafe_sales,Walk-in customers,624.78,17293.78
+2026-05-29,cafe_sales,Walk-in customers,668.96,17962.74
+2026-05-29,fees,Card processing fees,-359.0,17603.74
+2026-05-30,cafe_sales,Walk-in customers,742.64,18346.38
+2026-05-31,cafe_sales,Walk-in customers,837.94,19184.32
+2026-05-31,supplier,Green bean importer,-4280.0,14904.32

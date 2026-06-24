@@ -1,0 +1,9 @@
+# Core: ADK with MCP support and Antigravity extras.
+google-adk[mcp]>=2.3.0
+
+# Data + forecasting (used from Phase 1 onward).
+pandas>=2.0
+numpy>=1.26
+
+# Synthetic SME transaction generation (Phase 1).
+Faker>=25.0
