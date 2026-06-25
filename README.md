@@ -88,7 +88,7 @@ adk web .              # browser chat UI → http://localhost:8000
 - [x] **Phase 1** — Synthetic SME transaction dataset (done)
 - [x] **Phase 2** — MCP server + financial tools (done)
 - [x] **Phase 3** — Forecasting engine (done)
-- [ ] **Phase 4** — Multi-agent orchestration
+- [x] **Phase 4** — Multi-agent orchestration (done)
 - [ ] **Phase 5** — Security layer
 - [ ] **Phase 6** — Agent skill (advisory playbook)
 - [ ] **Phase 7** — Deploy + UI
