@@ -90,7 +90,7 @@ adk web .              # browser chat UI → http://localhost:8000
 - [x] **Phase 3** — Forecasting engine (done)
 - [x] **Phase 4** — Multi-agent orchestration (done)
 - [x] **Phase 5** — Security layer (done)
-- [ ] **Phase 6** — Agent skill (advisory playbook)
+- [x] **Phase 6** — Agent skill (advisory playbook) (done)
 - [ ] **Phase 7** — Deploy + UI
 - [ ] **Phase 8** — Writeup, video, cover image
 
