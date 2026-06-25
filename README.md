@@ -89,7 +89,7 @@ adk web .              # browser chat UI → http://localhost:8000
 - [x] **Phase 2** — MCP server + financial tools (done)
 - [x] **Phase 3** — Forecasting engine (done)
 - [x] **Phase 4** — Multi-agent orchestration (done)
-- [ ] **Phase 5** — Security layer
+- [x] **Phase 5** — Security layer (done)
 - [ ] **Phase 6** — Agent skill (advisory playbook)
 - [ ] **Phase 7** — Deploy + UI
 - [ ] **Phase 8** — Writeup, video, cover image

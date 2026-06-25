@@ -27,6 +27,7 @@ from google.adk.tools import AgentTool
 from .agents.mcp_tools import build_financial_toolset
 from .agents.pipeline import cashflow_pipeline
 from .config import DEFAULT_RETRY, MODEL
+from .security.guards import after_tool_guard, before_tool_guard
 
 root_agent = Agent(
     name="cashpilot",
@@ -60,4 +61,6 @@ root_agent = Agent(
         AgentTool(agent=cashflow_pipeline),
     ],
     retry_config=DEFAULT_RETRY,
+    before_tool_callback=before_tool_guard,
+    after_tool_callback=after_tool_guard,
 )

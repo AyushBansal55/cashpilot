@@ -16,6 +16,7 @@ and tool-free.
 from google.adk.agents import LlmAgent
 
 from ..config import DEFAULT_RETRY, MODEL
+from ..security.guards import after_tool_guard, before_tool_guard
 from .mcp_tools import build_financial_toolset
 
 forecasting_agent = LlmAgent(
@@ -45,4 +46,6 @@ forecasting_agent = LlmAgent(
     tools=[build_financial_toolset()],
     output_key="forecast_summary",
     retry_config=DEFAULT_RETRY,
+    before_tool_callback=before_tool_guard,
+    after_tool_callback=after_tool_guard,
 )
